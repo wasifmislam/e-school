@@ -1,0 +1,71 @@
+.header{
+    position: absolute;
+    width: 1366px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+}
+.icon{
+    position: absolute;
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+.header-list{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    left: 1100px;
+}
+.book-list{
+    position: absolute;
+    width: 57px;
+    height: 34px;
+    left: 825px;
+    top: 30px;
+    border: none;
+    background: #F0FFF0;
+}
+.course-list{
+    position: absolute;
+    width: 76px;
+    height: 34px;
+    left: 920px;
+     top: 30px;
+     border: none;
+     background: #F0FFF0;
+}
+.others-list{
+     position: absolute;
+     width: 64px;
+     height: 34px;
+     left: 1021px;
+     top: 30px;
+     border: none;
+     background: #F0FFF0;
+}
+.blogs-list{
+    position: absolute;
+    width: 45px;
+    height: 34px;
+    left: 1122px;
+    top: 30px;
+    border: none;
+    background: #F0FFF0;
+}
+.button-sign{
+    display: flex;
+    flex-direction: row;
+     padding: 10px 22px;
+     position: absolute;
+     width: 104px;
+     height: 43px;
+     left: 1201px;
+    top: 32px;
+    background: #21B573;
+    border-radius: 40px;
+}
+
+
