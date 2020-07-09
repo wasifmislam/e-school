@@ -1,7 +1,7 @@
 .header{
     position: absolute;
     width: 1366px;
-    height: 500px;
+    height: 560px;
     left: 0px;
     top: 0px;
     background: #F0FFF0;
@@ -67,5 +67,72 @@
     background: #21B573;
     border-radius: 40px;
 }
+.button-started{
+    /* get started button style */
+    display: flex;
+    flex-direction: row;
+    padding: 10px 33px;
+    position: absolute;
+    width: 150px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+    background: #21B573;
+    border-radius: 33px;
+}
+.header-position{
+    position: absolute;
+    left: 725px;
+    top: 157px;
+}
+.header-image{
+     width: 520px;
+    height: 316px;
+}
+.header-p{
+    /* Are you ready to Learn? */
+position: absolute;
+width: 188px;
+height: 24px;
+left: 205px;
+top: 178px;
 
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+color: #FD511A;
+
+}
+.first-heading{
+    position: absolute;
+width: 405px;
+height: 140px;
+left: 205px;
+top: 212px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
+}
+.second-p{
+/* lorem paragraph styling */
+    position: absolute;
+    width: 403px;
+height: 85px;
+left: 205px;
+top: 371px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 36px;
+color: #6C6B6B;
+
+}
 
